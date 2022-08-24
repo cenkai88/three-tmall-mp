@@ -1,0 +1,4 @@
+<view style="width:100vw" >
+  <canvas onReady="onCanvasReady" style="width:100vw;height:100vh; opacity: 1" class="full" id="canvas" type="webgl" />
+  <view style="width:100vw;height:100vh;top:0px;position:absolute; top: 0; left:0;" onTouchStart="onTouchStart" onTouchCancel="onTouchEnd" onTouchMove="onTouchMove" onTouchEnd="onTouchEnd" ></view>
+</view>

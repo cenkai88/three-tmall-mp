@@ -1,0 +1,9 @@
+{
+  "component2": false,
+  "include": [
+    "resource/*.gltf",
+    "resource/*.json"
+  ],
+  "enableAppxNg": true,
+  "enableHMR": false
+}

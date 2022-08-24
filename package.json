@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@oasis-engine/controls": "^0.6.2",
+    "@oasis-engine/miniprogram-adapter": "^0.2.0",
+    "oasis-engine": "^0.6.2",
+    "three-platformize": "^1.133.3"
+  }
+}

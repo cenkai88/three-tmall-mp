@@ -1,0 +1,14 @@
+{
+  "workers": [
+    "three/worker/index.js"
+  ],
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "defaultTitle": "My App",
+    "v8WorkerPlugins": "gcanvas_runtime",
+    "v8Worker": 1,
+    "enableSkia": "true"
+  }
+}
